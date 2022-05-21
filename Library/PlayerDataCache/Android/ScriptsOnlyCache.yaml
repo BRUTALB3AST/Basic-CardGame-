@@ -3,6 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - Cards
     - GameMechanics
+    - Insttruction
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.Graphs.dll:
@@ -73,6 +74,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 2856}
     - Class: 114
       Script: {instanceID: 4240}
+    - Class: 114
+      Script: {instanceID: 20474}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -522,6 +525,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: afdfb6f02b5000cc8a944191b929b495
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Insttruction
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity

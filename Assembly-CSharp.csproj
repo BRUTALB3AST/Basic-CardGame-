@@ -38,6 +38,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Cards.cs" />
      <Compile Include="Assets\Scripts\GameMechanics.cs" />
+     <Compile Include="Assets\Scripts\Insttruction.cs" />
     <Reference Include="UnityEngine">
         <HintPath>V:\Program files\Unity\2020.3.30f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>

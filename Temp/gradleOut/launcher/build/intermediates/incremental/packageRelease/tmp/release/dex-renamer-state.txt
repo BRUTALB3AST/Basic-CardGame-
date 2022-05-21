@@ -1,0 +1,4 @@
+#Sat May 21 11:30:48 IST 2022
+base.0=V\:\\Unity\\AutoVerse_GameTask\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

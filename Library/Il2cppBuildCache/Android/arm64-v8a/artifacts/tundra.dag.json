@@ -1,0 +1,129 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp V:/Unity/AutoVerse_GameTask/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so",
+      "Action": "\"V:\\Program files\\Unity\\2020.3.30f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARM64\" --configuration=\"Release\" --outputpath=\"V:\\Unity\\AutoVerse_GameTask\\Library\\Il2cppBuildCache\\Android\\arm64-v8a\\Native\\arm64-v8a\\libil2cpp.so\" --cachedirectory=\"V:\\Unity\\AutoVerse_GameTask\\Assets\\..\\Library\\il2cpp_android_arm64-v8a/il2cpp_cache\" --additional-include-directories=\"V:/Program files/Unity/2020.3.30f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\bdwgc/include\" --additional-include-directories=\"V:/Program files/Unity/2020.3.30f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\libil2cpp/include\" --baselib-directory=\"V:/Program files/Unity/2020.3.30f1/Editor/Data/PlaybackEngines/AndroidPlayer\\Variations\\il2cpp\\Release\\StaticLibs\\arm64-v8a\" --avoid-dynamic-library-copy --tool-chain-path=\"V:/Program files/Unity/2020.3.30f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"V:/Program files/Unity/2020.3.30f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed --generatedcppdir=V:/Unity/AutoVerse_GameTask/Library/Il2cppBuildCache/Android/arm64-v8a/il2cppOutput --stats-output-dir=V:/Unity/AutoVerse_GameTask/Library/Il2cppBuildCache/Android/arm64-v8a/il2cppStats",
+      "Inputs": [
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "V:/Unity/AutoVerse_GameTask/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "V:/Program files/Unity/2020.3.30f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe",
+        "V:/Program files/Unity/2020.3.30f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/arm64-v8a/baselib.a",
+        "V:/Program files/Unity/2020.3.30f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/arm64-v8a/libunityruntime.a",
+        "\"V:/Program files/Unity/2020.3.30f1/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\""
+      ],
+      "Outputs": [
+        "V:/Unity/AutoVerse_GameTask/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../../../Program files/Unity/2020.3.30f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/bdwgc/include"
+    },
+    {
+      "File": "../../../../../../Program files/Unity/2020.3.30f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/libil2cpp/include"
+    },
+    {
+      "File": "../../../../../../Program files/Unity/2020.3.30f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/arm64-v8a"
+    },
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "Path": "../../../../../../Program files/Unity/2020.3.30f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/arm64-v8a",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}

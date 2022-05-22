@@ -3,7 +3,7 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - Cards
     - GameMechanics
-    - Insttruction
+    - MainMenuMechanics
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.Graphs.dll:
@@ -50,6 +50,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 104
@@ -73,9 +77,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2856}
     - Class: 114
-      Script: {instanceID: 4240}
+      Script: {instanceID: 4242}
     - Class: 114
-      Script: {instanceID: 20474}
+      Script: {instanceID: 98154}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -203,7 +207,7 @@ ScriptsOnlyBuild:
     className: AspectRatioFitter
   - hash:
       serializedVersion: 2
-      Hash: 2af7d461f4abd46addc37173d7c56852
+      Hash: 30b236bf1cfca5e1be582b809be661ad
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Cards
@@ -497,7 +501,7 @@ ScriptsOnlyBuild:
     className: TMP_ScrollbarEventHandler
   - hash:
       serializedVersion: 2
-      Hash: 89ac4c62e1f379a89e817692e52f7ca1
+      Hash: c30daf0187c8c3c12caa8dc72cdf3e27
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GameMechanics
@@ -527,11 +531,11 @@ ScriptsOnlyBuild:
     className: TouchInputModule
   - hash:
       serializedVersion: 2
-      Hash: afdfb6f02b5000cc8a944191b929b495
+      Hash: 023d49861cd58dceb9058f58765feaef
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: Insttruction
+    className: MainMenuMechanics
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: V:/BuildApk/AutoVerse.apk
+  playerPath: V:/BuildApk/Autoverse Task Submission/Task Submission.apk
